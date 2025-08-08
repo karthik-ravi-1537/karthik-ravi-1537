@@ -21,7 +21,7 @@ fundamentals for the next phase of my career in this AI-native world.
 
 ## 🚧 What I’m Currently Doing
 
-(Full context → [now.md](./GitHub README/DetailedPages/now.md))
+(Full context → [now.md](./GitHub-README/DetailedPages/now.md))
 
 - Studying Distributed Systems, NLP, ML/AI, Deep-Learning, and AI Application Architectures (Agentic Flows, RAG, etc.).
 - Prototyping RAG systems with LangChain + OpenAI/Gemini/Claude.
@@ -33,7 +33,7 @@ fundamentals for the next phase of my career in this AI-native world.
 
 ## 🧭 Career Highlights
 
-(Full journey → [career-highlights.md](./GitHub README/DetailedPages/career-highlights.md))
+(Full journey → [career-highlights.md](./GitHub-README/DetailedPages/career-highlights.md))
 
 - **ProdSmiths**: Engineering Manager for FinTech infra & legal ops
 - **AppsForBharat**: Led product for Sri Mandir—5x DAU, Seed → Series A -> Series B
@@ -45,7 +45,7 @@ fundamentals for the next phase of my career in this AI-native world.
 
 ## 📂 Selected Projects
 
-(See more → [projects.md](./GitHub README/DetailedPages/projects.md))
+(See more → [projects.md](./GitHub-README/DetailedPages/projects.md))
 
 - 🎮 **Sri Mandir Gamification**: Designed habit loops with spiritual context.
 - 📱 **PolicyManager @ Qualcomm**: Firmware-layer logic on Snapdragon SoCs.
@@ -56,7 +56,7 @@ fundamentals for the next phase of my career in this AI-native world.
 
 ## 🔧 Technology
 
-(Complete breakdown → [technology.md](./GitHub README/DetailedPages/technology.md))
+(Complete breakdown → [technology.md](./GitHub-README/DetailedPages/technology.md))
 
 Languages: `Java`, `Python`, `TypeScript`, `SQL`  
 Infra: `Spring Boot`, `Node.js`, `Docker`, `Kubernetes`, `GCP`  
@@ -67,7 +67,7 @@ Principles: System Design • Prompt Engineering • Product-Led Growth
 
 ## 📚 Lessons I Carry
 
-(Read in full → [lessons.md](./GitHub README/DetailedPages/lessons.md))
+(Read in full → [lessons.md](./GitHub-README/DetailedPages/lessons.md))
 
 - Users > Company > Team > Self
 - Technology must serve people.
@@ -80,7 +80,7 @@ Principles: System Design • Prompt Engineering • Product-Led Growth
 
 ## 🧠 How I Think
 
-(More details → [philosophy.md](./GitHub README/DetailedPages/philosophy.md))
+(More details → [philosophy.md](./GitHub-README/DetailedPages/philosophy.md))
 
 - Systems > Stacks
 - Clarity > Complexity
@@ -90,7 +90,7 @@ Principles: System Design • Prompt Engineering • Product-Led Growth
 
 ## 🎓 Education
 
-(Fully detailed → [education.md](./GitHub README/DetailedPages/education.md))
+(Fully detailed → [education.md](./GitHub-README/DetailedPages/education.md))
 
 - **MS in Computer Science**, Northeastern University *(2024–2026)*  
   Focus: NLP, Distributed Systems, Machine Learning, Deep Learning, AI
