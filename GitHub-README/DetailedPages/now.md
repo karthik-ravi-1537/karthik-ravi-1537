@@ -23,6 +23,6 @@ A quick look at what’s occupying my time and mind in 2024–25.
 
 ## 🔍 Looking For
 
-- Fall 2025 / Winter 2026 Internships and/or 2026 Full-Time Roles
+- Winter/Spring 2026 Internships and/or 2026 Full-Time Roles
 - In **Infra, AI Systems, Product Engineering**
 - Teams that value curiosity, clarity, and kindness
