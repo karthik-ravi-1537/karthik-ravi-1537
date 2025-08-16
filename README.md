@@ -25,7 +25,7 @@ fundamentals for the next phase of my career in this AI-native world.
 
 - Studying Distributed Systems, NLP, ML/AI, Deep-Learning, and AI Application Architectures (Agentic Flows, RAG, etc.).
 - Prototyping RAG systems with LangChain + OpenAI/Gemini/Claude.
-- Seeking Fall 2025 / Winter 2026 internships and Full-time roles (2026)
+- Seeking Winter/Spring 2026 internships and Full-time roles (2026)
 - Interested in AI Interpretability.
     - Owing to my interest in understanding how AI functions 'under-the-hood' and in building responsible AI systems.
 
@@ -36,7 +36,7 @@ fundamentals for the next phase of my career in this AI-native world.
 (Full journey → [career-highlights.md](./GitHub-README/DetailedPages/career-highlights.md))
 
 - **ProdSmiths**: Engineering Manager for FinTech infra & legal ops
-- **AppsForBharat**: Led product for Sri Mandir—5x DAU, Seed → Series A -> Series B
+- **AppsForBharat**: Led Product Management for Sri Mandir — 5x DAU (Peak of 1M+ DAU, DAU/MAU Ratio of 25%+), Seed → Series A -> Series B
 - **Hivel**: Built fast GenAI MVPs with real use cases
 - **Yuva Chintana Foundation**: Policy and programs for grassroots education
 - **Qualcomm**: Code in billions of devices (PolicyManager, Modem Layer)
