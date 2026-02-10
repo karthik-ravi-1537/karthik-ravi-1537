@@ -17,17 +17,16 @@ Guiding beliefs, values, and mindset that shape how I build and lead.
 - Systems > Stacks
     - Systems Thinking helps me see the big picture and design for longevity.
 - Clarity > Complexity
-  - 
 - Teaching > Managing
     - I am what I am today, thanks to the teachers who shaped me.
 - Listening > Telling
     - Over the years as a Product Manager and an Engineering Manager, I’ve learned that listening is the most powerful
       tool available in my arsenal.
 - Depth > Hype
-  - 
 - Service > Authority
     - I believe in serving my team and users, not just leading them.
     - Sarvodhaya (Servant Leadership) is my guiding principle.
+- Small differences in craft compound into massive gaps over time. 1.2^5 > 1.1^5 >> 1.0^5 >>> 0.9^5.
 - Respect for time, people, and the codebase
 
 ---

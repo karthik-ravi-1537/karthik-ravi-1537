@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Karthik Ravi 👋</h1>
-<p align="center">Software Engineer • Product Builder</p>
+<h1 align="center">Hi, I'm Karthik Ravi</h1>
+<p align="center">Software Engineer | AI/ML Researcher</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thegratek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,64 +8,65 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m an engineer-at-heart who enjoys building useful things, building them well, and scaling them meaningfully.  
-My work spans **consumer products**, **infrastructure products**, **GenAI**, and **0→1 product journeys**.  
-I care about clarity, utility, performance, taste, and empathy in both code and collaboration.
+I build production ML systems - RAG pipelines, LLM evaluation frameworks, agentic AI, and multimodal ML.
 
-Currently pursuing my **MS in Computer Science @ Northeastern**, wherein I’m revisiting (and reinvesting in)
-fundamentals for the next phase of my career in this AI-native world.
+My arc: **Engineering (Qualcomm) → Product (startups) → Engineering + ML/AI (deliberate return)**. Each phase built a different muscle - systems discipline, user empathy, shipping under constraints. They compound.
+
+Currently pursuing my **MS in Computer Science @ Northeastern (4.0 GPA)**, focused on retrieval systems, agentic AI, LLM evaluation, and AI interpretability.
 
 ---
 
-## 🚧 What I’m Currently Doing
+## What I'm Currently Doing
 
 (Full context → [now.md](./GitHub-README/DetailedPages/now.md))
 
-- Studying Distributed Systems, NLP, ML/AI, Deep-Learning, and AI Application Architectures (Agentic Flows, RAG, etc.).
-- Prototyping RAG systems with LangChain + OpenAI/Gemini/Claude.
-- Seeking Winter/Spring 2026 internships and Full-time roles (2026)
-- Interested in AI Interpretability.
-    - Owing to my interest in understanding how AI functions 'under-the-hood' and in building responsible AI systems.
+- **ML Teaching Assistant** (CS 6140) at Northeastern under Dr. Smruthi Mukund
+- Building **DistilKit** - a universal, config-driven knowledge distillation framework
+- Maintaining **Machine-Learning-Basics** - a hands-on ML learning resource for students
+- Open to full-time roles (2026) in AI infrastructure and ML engineering
 
 ---
 
-## 🧭 Career Highlights
+## Career Highlights
 
 (Full journey → [career-highlights.md](./GitHub-README/DetailedPages/career-highlights.md))
 
-- **ProdSmiths**: Engineering Manager for FinTech infra & legal ops
-- **AppsForBharat**: Led Product Management for Sri Mandir — 5x DAU (Peak of 1M+ DAU, DAU/MAU Ratio of 25%+), Seed → Series A -> Series B
-- **Hivel**: Built fast GenAI MVPs with real use cases
-- **Yuva Chintana Foundation**: Policy and programs for grassroots education
-- **Qualcomm**: Code in billions of devices (PolicyManager, Modem Layer)
+- **SigIQ** (ML Resident, Berkeley): Production RAG pipeline on AWS, LLM-as-a-Judge evals, eval-driven agentic loops
+- **Interpersonal** (SWE Co-Op, San Francisco): Desktop app, Core ML framework, multimodal pipelines (ASR, emotion recognition, LLM fusion)
+- **ProdSmiths** (Engineering Manager): Architected core platforms → built team → team acqui-hired
+- **AppsForBharat** (Product): Led Sri Mandir to 5x DAU (1M+ DAU), Seed → Series B
+- **Qualcomm** (Engineer): PolicyManager on Snapdragon SoCs, QualStar Award
 
 ---
 
-## 📂 Selected Projects
+## Recent & Selected Projects
+
+Public projects only - most production and research work is under NDA or in private repos.
 
 (See more → [projects.md](./GitHub-README/DetailedPages/projects.md))
 
-- 🎮 **Sri Mandir Gamification**: Designed habit loops with spiritual context.
-- 📱 **PolicyManager @ Qualcomm**: Firmware-layer logic on Snapdragon SoCs.
-- 🏛 **Loan + Legal Infra @ ProdSmiths**: Scalable recovery systems for ARCs.
-- 🤖 **GenAI MVPs @ Hivel**: LLMs + Product Data → Meaningful Insights.
+- **Machine-Learning-Basics**: Hands-on ML learning resource used for weekly sessions at Northeastern, with automated setup and JupyterHub support
+- **RAG Demo**: Progressive RAG techniques - vanilla to graph-based retrieval with evaluation framework
+- **MCP Demo**: Calculator and filesystem MCP servers, interactive web interface, CLI tooling
+- **Microservices Demo**: Full microservices architecture with FastAPI, React TypeScript, RabbitMQ, PostgreSQL, MongoDB, Redis
 
 ---
 
-## 🔧 Technology
+## Technology
 
 (Complete breakdown → [technology.md](./GitHub-README/DetailedPages/technology.md))
 
-Languages: `Java`, `Python`, `TypeScript`, `SQL`  
-Infra: `Spring Boot`, `Node.js`, `Docker`, `Kubernetes`, `GCP`  
-AI/ML: `LangChain`, `OpenAI`, `TensorFlow`, `Scikit-Learn`  
-Principles: System Design • Prompt Engineering • Product-Led Growth
+Languages: `Python`, `TypeScript`, `Java`, `SQL`
+AI/ML: `PyTorch`, `TensorFlow`, `LangChain`, `LangGraph`, `Scikit-Learn`
+Backend: `FastAPI`, `Spring Boot`
+Infra: `Docker`, `AWS`
+Databases: `PostgreSQL`, `MongoDB`, `Redis`, `ChromaDB`, `Milvus`
 
 ---
 
-## 📚 Lessons I Carry
+## Lessons I Carry
 
 (Read in full → [lessons.md](./GitHub-README/DetailedPages/lessons.md))
 
@@ -74,37 +75,38 @@ Principles: System Design • Prompt Engineering • Product-Led Growth
 - Consistency >>> Talent.
 - Failure teaches more than Success.
 - Trust > Control, Teaching > Managing.
-- Good taste is learned from users.
+- Good taste is learned from users, failures, repetitions.
 
 ---
 
-## 🧠 How I Think
+## How I Think
 
 (More details → [philosophy.md](./GitHub-README/DetailedPages/philosophy.md))
 
 - Systems > Stacks
 - Clarity > Complexity
+- Depth > Hype
 - Respect for time, people, and the codebase.
 
 ---
 
-## 🎓 Education
+## Education
 
 (Fully detailed → [education.md](./GitHub-README/DetailedPages/education.md))
 
-- **MS in Computer Science**, Northeastern University *(2024–2026)*  
-  Focus: NLP, Distributed Systems, Machine Learning, Deep Learning, AI
+- **MS in Computer Science**, Northeastern University *(2024–2026)* - **4.0 GPA**
+  Focus: ML, NLP, Deep Learning, Distributed Systems, AI
 - **B.Tech in Electrical Engineering**, IIT Hyderabad *(2011–2015)*
   Minor in Computer Science
 
 ---
 
-## 📬 Contact
+## Contact
 
-📍 San Jose, California  
-📫 ravi.ka@northeastern.edu
-🔗 [LinkedIn](https://www.linkedin.com/in/thegratek)
+San Jose, California
+ravi.ka@northeastern.edu
+[LinkedIn](https://www.linkedin.com/in/thegratek)
 
 ---
 
-> 🧠 Still learning. Still building. Still listening.
+> Still learning. Still building. Still listening.

@@ -1,77 +1,53 @@
-# 🔧 Detailed Technical Stack
+# Technology
 
-A deeper look at the tools, languages, and systems I use — and why I choose them.
+> Build something useful. Build it well. Build something bigger.
 
----
-
-## 🧰 Languages
-
-- `Python` – ML Applications, Rapid Prototyping, Data Scripting, Automation
-- `TypeScript`, `JavaScript` – Web/Desktop Development with static safety and clean UI logic
-- `Java` – Backend Systems, performance-critical workflows
-- `SQL` – Data Manipulation, Analytics, and Reporting
+A deeper look at the tools, languages, and systems I use.
 
 ---
 
-## ⚙️ Frameworks, Principles, etc.
+## Languages
 
-- **Frameworks**: Spring Boot, FastAPI, Electron
-- **CI/CD**: Jenkins, GitHub Actions
-- System Design, TDD, Domain-Driven Design, Clean Code
-
----
-
-## 📈 Product Management
-
-- **Retention and Activation**
-    - User Onboarding, Feature Discovery, Core Engagement
-- **Product-Led Growth (Referral and Acquisition)**
-    - Sharing, Social Proof, Virality
-- **Revenue and Monetization**
-    - Payments, Subscription Models, and Billing Systems
-- **Data Instrumentation**
-    - Analytics, User Behavior Tracking, A/B Testing
+- `Python` - Primary language. ML/AI, backend, scripting, automation.
+- `TypeScript` - Web and desktop development.
+- `Java` - Backend systems, performance-critical workflows.
+- `SQL` - Data manipulation, analytics, reporting.
 
 ---
 
-## 🧠 AI/ML & GenAI
+## AI/ML
 
-- **Frameworks:** LangChain
-- **ML Toolkits:** TensorFlow, Scikit-Learn, PyTorch
-- **AI Interpretability:** Model insights and transparency
-- **LLMs:** OpenAI, Gemini, Claude
-- **Embeddings & Vector Search:** Semantic Search, RAG, and Contextual Retrieval
-- **NLP:** Text Classification, Summarization, Prediction
-
----
-
-## 🛠 Infrastructure & DevOps
-
-- Docker, Kubernetes
-- AWS, GCP
+- **Deep Learning:** PyTorch, TensorFlow, HuggingFace Transformers
+- **LLM Orchestration:** LangChain, LangGraph, LangSmith
+- **Classical ML:** Scikit-Learn, NumPy, Pandas
+- **LLM Providers:** OpenAI, Anthropic, Google
+- **Vector Databases:** ChromaDB, Milvus, Pinecone
+- **Patterns:** RAG, LLM-as-a-Judge, Agentic Workflows, Knowledge Distillation, MCP
 
 ---
 
-## 📊 Data & Storage
+## Backend & APIs
 
-- **SQL**: PostgreSQL, MySQL, SQLite
-- **NoSQL**: MongoDB
-- **Vector Databases**: Chroma, Qdrant, FAISS
-- **Caching**: Redis
-- **Warehousing**: BigQuery
-
----
-
-## 🧪 Developer Tools
-
-- **API Clients**: Postman, Swagger
-- **ML Workspaces**: Jupyter Notebooks, Google Colab
-- **Design & Visual Collaboration**: Figma, Whimsical, Miro
-- **Versioning & Reviews**: GitHub, GitLab, Bitbucket
-- **Markdown + Diagrams**: Mermaid, UML, Markdown
+- **Frameworks:** FastAPI, Spring Boot
+- **Desktop:** Electron
+- **Protocols:** REST, WebSockets, MCP (Model Context Protocol)
+- **Message Queues:** RabbitMQ
 
 ---
 
-## 📌 Guiding Principle
+## Infrastructure & DevOps
 
-> **Build something useful. Build it well. Build something bigger.**
+- **Containers:** Docker
+- **Cloud:** AWS (EC2, S3, ECS, Fargate, Lambda, Step Functions, CloudWatch, EventBridge, Secrets Manager)
+- **CI/CD:** GitHub Actions
+- **Monitoring:** W&B
+
+---
+
+## Databases & Storage
+
+- **SQL:** PostgreSQL, SQLite
+- **NoSQL:** MongoDB
+- **Caching:** Redis
+- **Vector:** ChromaDB, Milvus, Pinecone
+- **Object Storage:** AWS S3

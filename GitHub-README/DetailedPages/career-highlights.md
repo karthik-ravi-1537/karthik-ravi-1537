@@ -1,72 +1,66 @@
-# 🧭 Career Highlights
+# Career Highlights
 
-Snapshots of impactful roles and responsibilities across sectors and scale.
-I've been fortunate to work alongside passionate colleagues from diverse backgrounds, from startups to global giants,
-and contribute to products that touch millions of lives.
-
----
-
-## ⚙️ ProdSmiths
-
-**Engineering Manager** | Bengaluru | 2023–2024
-
-- Led Product and Engineering for FinTech products for one of our key clients (CreditNirvana, part of Perfios).
-    - My team was acqui-hired by CreditNirvana nearing the end of 2024, with my then-manager serving as the current CTO
-      of CreditNirvana.
-    - I had to leave the team due to my MS program at Northeastern University.
-- Mentored team of 8 Software Engineers + 2 Product Managers + 1 Product Designer.
-- Introduced team to Clean Code, CI/CD, and Robust Code Review culture.
-- Delivered compliance-grade Recovery + Legal Management systems for a top ARCs and Lending Companies.
+My arc: **Engineering (Qualcomm) → Product (startups) → Engineering + ML/AI (deliberate return)**.
+Each phase built a different muscle. They compound.
 
 ---
 
-## 🧠 Hivel
+## SigIQ
 
-**Product Lead** | Bengaluru | 2023
+**Machine Learning Resident** | Berkeley, CA | Sep 2025 – Jan 2026
 
-- Built GenAI MVPs focused on engineering analytics.
-- Pivoted back into engineering after rediscovering Engineering IC joy.
-
----
-
-## 🛕 AppsForBharat (earlier under Trell)
-
-**Product Owner** | Bengaluru | 2020–2023
-
-- Owned end-to-end product funnel for Sri Mandir, India’s top spiritual app.
-- Focused on engagement, retention, gamification, and monetization infrastructure.
-- Grew the Product team from 1 to 7, fostering a culture of ownership and innovation.
-- Drove growth from early traction to 5x DAU, enabling Seed → Series A -> Series B.
-    - Company is now Series-C funded and valued at $100M+.
+- Built and deployed a production Summarization-Scoring-Retrieval-Generation pipeline end-to-end on AWS (ECS, S3, CloudWatch, Step Functions, EventBridge), serving paying customers
+- Designed domain-tailored LLM-as-a-Judge eval metrics calibrated against expert ground truth, with expert validation of the evals themselves
+- Built eval-driven agentic loops enforcing quality baselines autonomously
+- Built the core AI pipeline for an industry-first feature: assessing student scaffolding levels during live classes in near real-time
 
 ---
 
-## 🚢 Xperian / Cogoport
+## Interpersonal
 
-**Product Manager** | 2018–2020
+**Software Engineer Co-Op** | San Francisco, CA | Jun 2025 – Aug 2025
 
-- Learnt the ropes of Product Management by staying close to industry experts.
-- Led MVP design cycles, customer research, and cross-functional alignment at Xperian.
-- Built early credit scoring systems (CogoCredit) and support platforms (CogoCare).
-
----
-
-## 🧪 Yuva Chintana Foundation
-
-**Program Executive** | Bengaluru | 2017–2018
-
-- Headed the program division for tech education access.
-- Pitched policy suggestions to the Govt. of Karnataka.
-- Learned grassroots empathy, behavioral insight, and human-centric design.
+- Built Desktop Application features (Login, Bridge, Events Pipeline) for the company's first commercial launch
+- Contributed to Core ML framework: feature development, hyper-parameter tuning, prompt engineering, context engineering
+- Designed, built, and deployed the Telemetry Service, integrated across Desktop Client and ML Framework
+- Multimodal pipelines: diarization (PyAnnote), ASR (Whisper), SER (Wav2Vec), facial analysis (MediaPipe), LLM fusion (Gemini/DeepSeek)
 
 ---
 
-## 🏢 Qualcomm
+## ProdSmiths
 
-**Engineer** | Hyderabad | 2015–2017
+**Engineering Manager** | Bengaluru | Sep 2023 – Aug 2024
 
-- Developed and maintained the PolicyManager subsystem in the Android stack.
-- Collaborated with SoC integration, OEM partners, and testing teams.
-- Received the Qualstar Award for resolving high-priority issues within strict SLAs.
+- Joined as one of the senior engineering hires. Architected core platforms, then built and managed the team.
+- Led architecture and delivery of Legal Case Management System and Acquisition & Resolution Management Suite for ARCs.
+- Drove clean coding practices and GenAI adoption - more than doubled code quality and development velocity.
+- Team was acqui-hired by CreditNirvana; my manager is now CTO there. I chose to pursue my MS CS instead.
 
 ---
+
+## AppsForBharat (Sri Mandir)
+
+**Product Owner** | Bengaluru | 2020 – 2023
+
+- Led product for Sri Mandir, India's top spiritual app. Grew to 5x DAU (1M+ peak), Seed → Series A → Series B.
+- Company is now Series C funded, valued at $100M+.
+
+---
+
+## Earlier Roles
+
+**Hivel** - Product Lead (2023). Built GenAI MVPs focused on engineering analytics.
+
+**Xperian / Cogoport** - Product Manager (2018–2020). Early credit scoring systems, support platforms, cross-functional alignment.
+
+**Yuva Chintana Foundation** - Program Executive (2017–2018). Grassroots tech education, policy work with Govt. of Karnataka.
+
+---
+
+## Qualcomm
+
+**Engineer** | Hyderabad | 2015 – 2017
+
+- Developed and maintained PolicyManager subsystem on Snapdragon SoCs.
+- Code shipped across hundreds of millions of Android devices.
+- QualStar Award for resolving high-priority issues within strict SLAs.
